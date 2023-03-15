@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 ## Oi, meu nome é <a>Victor Clivatti</a> e esse é o meu trabalho 😎
 
@@ -19,5 +19,7 @@
 ### Fale comigo!!!
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-clivatti/)
+  
+[![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaoclivatti@hotmail.com)
 
 </div>
