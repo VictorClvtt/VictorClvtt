@@ -1,6 +1,6 @@
 <div align="center">
 
-## Oi, meu nome é <a>Victor Clivatti</a> e esse é o meu trabalho 😎
+## Oi, meu nome é <a href="https://victorclvtt.github.io/novoSiteCurriculo/">Victor Clivatti</a> e esse é o meu trabalho 😎
 
 ---
 
