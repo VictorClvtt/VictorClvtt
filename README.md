@@ -1,6 +1,6 @@
 <div align="center">
 
-## Oi, meu nome é <a href="https://victorclvtt.github.io/site_curriculo_novo/">Victor Clivatti</a> e esse é o meu trabalho 😎
+![apresentação](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/f1091dcc-7384-4ee8-85dd-dea8a1cbc992)
 
 ---
 ![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3438313838373032363132303039373831332f3731353138373733343832313733323335322f646f776e6c6f61642e676966](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/f3cf3422-5337-40b2-951c-ed3504cda8a5)
