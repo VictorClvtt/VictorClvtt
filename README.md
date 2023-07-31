@@ -1,6 +1,6 @@
 <div align="center">
 
-![apresentação](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/f1091dcc-7384-4ee8-85dd-dea8a1cbc992)
+![apresentação1](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/d52e4105-8331-4d55-996c-7c0c1232fdf4)
 <p>Sou um estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4º semestre, mas não me limito somente ao estudo na faculdade, estudo muitas outras tecnologias interessantes que estão listadas aqui.</p>
 
 ---
