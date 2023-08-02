@@ -9,7 +9,7 @@
 
 <p align="left">🌐 Crafting user-friendly web experiences with <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b></p>
 <p align="left">🔍 Delving into <b>React.js</b> to level up my frontend skills</p>
-<p align="left">🐍 Pythonista interested in <b>web scraping</b>, <b>automation</b>, & data <b>analysis</b></p>
+<p align="left">🐍 Pythonista interested in <b>web scraping</b>, <b>automation</b>, <b>data analysis</b>, & <b>Back-End with Flask</b></p>
 <p align="left">🐧 Embracing the power and freedom of <b>Linux</b></p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorClvtt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
