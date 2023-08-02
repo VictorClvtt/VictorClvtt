@@ -49,11 +49,14 @@
 ---
 
 <div align="center">
-  
+	
 ### Fale comigo!!!
+![Image 1](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/856e18b8-755c-4c4d-ace6-4344c035b3dd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-clivatti/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaoclivatti@hotmail.com)
+![Image 2](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/db2d8faf-1f4e-48c8-9875-ac9b87562f4b)
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-clivatti/)
-[![](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaoclivatti@hotmail.com)
+
+
 
 ![](https://komarev.com/ghpvc/?username=VictorClvtt&style=for-the-badge)
-</div>
