@@ -1,17 +1,16 @@
 <div align="center">
 
 ![apresentação3](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/9ab635c9-cb50-4873-a0da-3d51d6daee3a)
-<p>Sou um estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4º semestre, mas não me limito somente ao estudo na faculdade, estudo muitas outras tecnologias interessantes que estão listadas aqui.</p>
+<p>I'm a System Development Student, currently in the 4th semester, but my quest for knowledge goes beyond academic studies. I am constantly exploring many other interesting technologies, which are listed in this profile.</p>
 
 ---
 
 <div>
 
-
-<p align="left">📝 Atualmente estudo <b>Python</b>, <b>JavaScript</b> e <b>React.js</b></p>
-<p align="left">🔍 Dentro das linguagens que estudo, meus tópicos favoritos são <b>Automação</b>, <b>Análise de Dados</b> e <b>Web Scraping</b></p>
-<p align="left">🛠️ Apesar da maioria dos meus projetos serem de Front-End, também estudo Back-End com <b>Flask</b></p>
-
+<p align="left">🌐 Crafting user-friendly web experiences with <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b></p>
+<p align="left">🔍 Delving into <b>React.js</b> to level up my frontend skills</p>
+<p align="left">🐍 Pythonista interested in <b>web scraping</b>, <b>automation</b>, & data <b>analysis</b></p>
+<p align="left">🐧 Embracing the power and freedom of <b>Linux</b></p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorClvtt&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3438313838373032363132303039373831332f3731353138373733343832313733323335322f646f776e6c6f61642e676966](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/f3cf3422-5337-40b2-951c-ed3504cda8a5)
@@ -40,7 +39,7 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 </div>
 <div>
-  <h2>Sistemas Operacionais</h2>
+  <h2>OS's</h2>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" title="Windows"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/>
