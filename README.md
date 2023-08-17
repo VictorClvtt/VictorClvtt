@@ -3,6 +3,9 @@
 ![apresentação3](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/9ab635c9-cb50-4873-a0da-3d51d6daee3a)
 <p>I'm a System Development Student, currently in the 4th semester, but my quest for knowledge goes beyond academic studies. I am constantly exploring many other interesting technologies, which are listed in this profile.</p>
 
+![Static Badge](https://img.shields.io/badge/Portfolio-%2326a164?style=for-the-badge&link=https%3A%2F%2Fvictorclvtt.github.io%2Fportfolio%2F)
+
+
 ---
 
 <div>
