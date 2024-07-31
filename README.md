@@ -33,7 +33,7 @@
 <div>
   <h2>Back-End</h2>
 	
-[![My Skills](https://skillicons.dev/icons?i=go,php,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nodejs,express,postgres,mysql)](https://skillicons.dev)
 
 </div>
 <div>
