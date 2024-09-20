@@ -2,7 +2,7 @@
 
 ![apresentação3](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/c0c207d3-c7ba-46bb-ba06-214b2816c13e)
 
-<p>I'm a System Development Student, currently in the 4th semester, but my quest for knowledge goes beyond academic studies. I am constantly exploring many other interesting technologies, which are listed in this profile.</p>
+<p>I'm a System Development Student, currently in the 6th semester, but my quest for knowledge goes beyond academic studies. I am constantly exploring many other interesting technologies, which are listed in this profile.</p>
 
 [![Static Badge](https://img.shields.io/badge/Portfolio-%2326a164?style=for-the-badge&logo=linux&logoColor=black)](https://victorclvtt.github.io/portfolio_2024/)
 
@@ -48,12 +48,11 @@
 <div align="center">
 
 <h2>Fale comigo!!!</h2>
- 
-![Image 1](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/856e18b8-755c-4c4d-ace6-4344c035b3dd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-clivatti/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaoclivatti@hotmail.com)
-![Image 2](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/db2d8faf-1f4e-48c8-9875-ac9b87562f4b)
 
+<img src="https://github.com/user-attachments/assets/80dc5843-2be2-4042-8ba9-87f2f615d08b" width="160">*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-clivatti/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaoclivatti@hotmail.com)*
+<img src="https://github.com/user-attachments/assets/80dc5843-2be2-4042-8ba9-87f2f615d08b" width="160">
 
 
 
