@@ -11,7 +11,8 @@
 
 <div>
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=VictorClvtt&theme=solarized-dark&show_icons=true&hide_border=true&count_private=true&card_width=200"> <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorClvtt&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact"> <img height="150px" src="https://github.com/user-attachments/assets/1c486f6d-2a43-4e4b-abd8-653324b796fc">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorClvtt&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact&card_width=600&langs_count=8">
+<img height="180px" src="https://github.com/user-attachments/assets/1c486f6d-2a43-4e4b-abd8-653324b796fc">
 
 </div>
 
