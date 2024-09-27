@@ -1,6 +1,7 @@
 <div align="center">
 
-![bem_vindo](https://github.com/user-attachments/assets/362028a5-1017-4372-a1de-b8090a2242de)
+![bem_vindo](https://github.com/user-attachments/assets/e4b52420-7dd2-4a25-822d-c87880d03d81)
+
 
 <p>I'm a System Development Student, currently in the 6th semester, but my quest for knowledge goes beyond academic studies. I am constantly exploring many other interesting technologies, which are listed in this profile.</p>
 
