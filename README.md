@@ -1,6 +1,6 @@
 <div align="center">
 
-![apresentação3](https://github.com/VictorClvtt/VictorClvtt/assets/117422342/c0c207d3-c7ba-46bb-ba06-214b2816c13e)
+![bem_vindo](https://github.com/user-attachments/assets/362028a5-1017-4372-a1de-b8090a2242de)
 
 <p>I'm a System Development Student, currently in the 6th semester, but my quest for knowledge goes beyond academic studies. I am constantly exploring many other interesting technologies, which are listed in this profile.</p>
 
