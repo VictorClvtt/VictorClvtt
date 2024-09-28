@@ -4,9 +4,9 @@
 
 
 
-<p>I'm a System Development Student, currently in the 6th semester, but my quest for knowledge goes beyond academic studies. I am constantly exploring many other interesting technologies, which are listed in this profile.</p>
-
-[![Static Badge](https://img.shields.io/badge/Portfolio-%2326a164?style=for-the-badge&logo=linux&logoColor=black)](https://victorclvtt.github.io/portfolio_2024/)
+	💼 Data Engineering Intern @ Compass UOL
+	💻 Linux Enthusiast • Backend Dev
+	🛠 Go • Python • JavaScript
 
 
 ---
