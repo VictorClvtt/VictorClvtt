@@ -5,6 +5,7 @@
 
 
 	💼 Data Engineering Intern @ Compass UOL
+ 	🎓 Análise e Desenvolvimento de Sistemas @ Fatec
 	💻 Linux Enthusiast • Backend Dev
 	🛠 Go • Python • JavaScript
 
