@@ -1,6 +1,6 @@
 <div align="center">
 
-![bem_vindo](https://github.com/user-attachments/assets/3d09edb3-decc-4b81-8295-d9ff9eee3c19)
+<img width="800px" src="https://github.com/user-attachments/assets/ff5c40a2-5eef-4cba-ba2e-2a20c23d22fe">
 
 
 
