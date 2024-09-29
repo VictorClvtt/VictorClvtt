@@ -8,7 +8,10 @@
  	🎓 Systems Analysis and Development @ Fatec
 	💻 Linux Enthusiast • Backend Dev
 	🛠 Go • Python • JavaScript
-
+ 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/victor-clivatti/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaoclivatti@hotmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=VictorClvtt&color=blue&style=flat)
 
 ---
 
@@ -41,18 +44,3 @@
 [![My Skills](https://skillicons.dev/icons?i=arch,debian,redhat,windows)](https://skillicons.dev)
 
 </div>
-
----
-
-<div align="center">
-
-<h2>Fale comigo!!!</h2>
-
-<img src="https://github.com/user-attachments/assets/80dc5843-2be2-4042-8ba9-87f2f615d08b" width="160">*
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-clivatti/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaoclivatti@hotmail.com)*
-<img src="https://github.com/user-attachments/assets/80dc5843-2be2-4042-8ba9-87f2f615d08b" width="160">
-
-
-
-![](https://komarev.com/ghpvc/?username=VictorClvtt&style=for-the-badge)
