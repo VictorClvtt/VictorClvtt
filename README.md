@@ -9,9 +9,9 @@
 	💻 Linux Enthusiast • Backend Dev
 	🛠 Go • Python • JavaScript
  
-<img src="https://github.com/user-attachments/assets/dcfc609b-dc21-4ad5-bf86-77c0471b34f2" width="28px"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/victor-clivatti/)
+<img src="https://github.com/user-attachments/assets/dcfc609b-dc21-4ad5-bf86-77c0471b34f2" width="32px"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/victor-clivatti/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaoclivatti@hotmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=VictorClvtt&color=blue&style=flat) <img src="https://github.com/user-attachments/assets/10540969-6874-46dd-9acb-3f04c2e1b937" width="28px">
+![Profile Views](https://komarev.com/ghpvc/?username=VictorClvtt&color=blue&style=flat) <img src="https://github.com/user-attachments/assets/dccceed7-5876-436c-9ad6-00724b6ec66d" width="32px">
 
 ---
 
