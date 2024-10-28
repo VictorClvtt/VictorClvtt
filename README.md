@@ -17,7 +17,7 @@
 
 <div>
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorClvtt&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact&card_width=600&langs_count=8">
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorClvtt&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=8">
 <img height="180px" src="https://github.com/user-attachments/assets/1c486f6d-2a43-4e4b-abd8-653324b796fc">
 
 </div>
@@ -49,7 +49,7 @@
 <div>
   <h2>Data</h2>
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![PySpark](https://img.shields.io/badge/PySpark-black?style=for-the-badge&logo=apachespark&logoColor=orange)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Plotly&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![PySpark](https://img.shields.io/badge/PySpark-grey?style=for-the-badge&logo=apachespark&logoColor=orange)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Plotly&logoColor=black)
 
 </div>
 <div>
