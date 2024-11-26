@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="775px" src="https://github.com/user-attachments/assets/36a2ed00-be75-45b7-8e97-f280d82ba6be">
-
+<img width="850px" src="https://github.com/user-attachments/assets/e0b631fd-e674-4ead-a274-db3f3c7f8a29">
 
 
 	💼 Data Engineering Intern @ Compass UOL
