@@ -3,9 +3,8 @@
 <img width="850px" src="https://github.com/user-attachments/assets/b9e6de99-c08d-460a-aafd-be155f9e7619">
 
 
-	💼 Data Engineering Intern @ Compass UOL
+	💾 Data Engineer • ⚙️ Backend Dev • 🐧 Linux Enthusiast 
  	🎓 Systems Analysis and Development @ Fatec
-	💻 Linux Enthusiast • Backend Dev
 	🛠 Go • Python • JavaScript
  
 <img src="https://github.com/user-attachments/assets/dcfc609b-dc21-4ad5-bf86-77c0471b34f2" width="32px"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/victor-clivatti/)
