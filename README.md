@@ -8,8 +8,7 @@
 	🛠 Go • Python • JavaScript
  
 <img src="https://github.com/user-attachments/assets/dcfc609b-dc21-4ad5-bf86-77c0471b34f2" width="32px"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/victor-clivatti/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaoclivatti@hotmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=VictorClvtt&color=blue&style=flat) <img src="https://github.com/user-attachments/assets/dccceed7-5876-436c-9ad6-00724b6ec66d" width="32px">
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaoclivatti@hotmail.com) <img src="https://github.com/user-attachments/assets/dccceed7-5876-436c-9ad6-00724b6ec66d" width="32px">
 
 ---
 
@@ -56,5 +55,15 @@
   <h2>OS's</h2>
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+<span>Ｐｒｏｆｉｌｅ ｖｉｅｗｓ：</span>
+
+![](https://count.getloli.com/get/@VictorClvtt.github.readme?theme=booru-lewd)
 
 </div>
