@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="850px" src="https://github.com/user-attachments/assets/b9e6de99-c08d-460a-aafd-be155f9e7619">
-
+![gif_lain](https://github.com/user-attachments/assets/8efa8f08-99f0-4973-a393-b7f2609e4666)
 
 	💾 Data Engineer • ⚙️ Backend Dev • 🐧 Linux Enthusiast 
  	🎓 Systems Analysis and Development @ Fatec
@@ -63,7 +62,7 @@
 
 <div align="center">
 
-<span>Ｐｒｏｆｉｌｅ ｖｉｅｗｓ：</span>
+<span>Ｐｒｏｆｉｌｅ Ｖｉｅｗｓ：</span>
 
 ![](https://count.getloli.com/get/@VictorClvtt.github.readme?theme=booru-lewd)
 
