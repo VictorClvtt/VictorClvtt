@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/8efa8f08-99f0-4973-a393-b7f2609e4666" height="150px">
+<img src="https://github.com/user-attachments/assets/130529c7-1c65-4bc0-8897-707e6a482f85" height="150px">
 
 	💾 Data Engineer • ⚙️ Backend Dev • 🐧 Linux Enthusiast 
  	🎓 Systems Analysis and Development @ Fatec
