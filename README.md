@@ -14,8 +14,8 @@
 
 <div>
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorClvtt&theme=solarized-dark&show_icons=true&hide_border=true&layout=compact&card_width=500&langs_count=8">
-<img height="180px" src="https://github.com/user-attachments/assets/1c486f6d-2a43-4e4b-abd8-653324b796fc">
+<img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorClvtt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=525&langs_count=8">
+<img height="190px" src="https://github-readme-stats.vercel.app/api?username=VictorClvtt&theme=vue-dark&hide_border=true">
 
 </div>
 
