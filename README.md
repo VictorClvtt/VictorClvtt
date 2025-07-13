@@ -15,7 +15,7 @@
 <div>
 
 <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorClvtt&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&card_width=400&langs_count=8">
-<img height="190px" src="https://github-readme-stats.vercel.app/api?username=VictorClvtt&theme=vue-dark&hide_border=true">
+<img height="190px" src="https://github-readme-stats.vercel.app/api?username=VictorClvtt&theme=vue-dark&hide_border=true&card_width=400">
 
 </div>
 
