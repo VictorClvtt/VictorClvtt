@@ -4,7 +4,7 @@
 
 	💾 Data Engineer • ⚙️ Backend Dev • 🐧 Linux Enthusiast 
  	🎓 Systems Analysis and Development @ Fatec
-	🛠 Go • Python • JavaScript
+	🛠 Go • Python • JavaScript • R
  
 <img src="https://github.com/user-attachments/assets/dcfc609b-dc21-4ad5-bf86-77c0471b34f2" width="32px"> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white&style=flat)](https://www.linkedin.com/in/victor-clivatti/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joaoclivatti@hotmail.com)
