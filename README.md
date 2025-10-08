@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<span>Ｐｒｏｆｉｌｅ Ｖｉｅｗｓ：</span>
+<span>Ｐｒｏｆｉｌｅ  Ｖｉｅｗｓ：</span>
 
 ![](https://count.getloli.com/get/@VictorClvtt.github.readme?theme=booru-lewd)
 
